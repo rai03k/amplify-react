@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-liffreact-dev-144109-authRole",
+      "UnauthRoleArn": "arn:aws:iam::163814965560:role/amplify-liffreact-dev-144109-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::163814965560:role/amplify-liffreact-dev-144109-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-liffreact-dev-144109-deployment",
+      "UnauthRoleName": "amplify-liffreact-dev-144109-unauthRole",
+      "StackName": "amplify-liffreact-dev-144109",
+      "StackId": "arn:aws:cloudformation:us-east-1:163814965560:stack/amplify-liffreact-dev-144109/b9c3ac80-5039-11ed-a63b-12543629f799",
+      "AmplifyAppId": "d2omd93i9eea16"
+    },
+    "categories": {
+      "auth": {
+        "liffreact9eb24174": {}
+      }
+    }
+  }
+}
