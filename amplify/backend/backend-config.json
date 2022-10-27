@@ -1,6 +1,6 @@
 {
   "auth": {
-    "liffreact9eb24174": {
+    "amplifyreacta07b8ce6": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -9,7 +9,7 @@
         "socialProviders": [],
         "usernameAttributes": [],
         "signupAttributes": [
-          "EMAIL"
+          "NAME"
         ],
         "passwordProtectionSettings": {
           "passwordPolicyMinLength": 8,

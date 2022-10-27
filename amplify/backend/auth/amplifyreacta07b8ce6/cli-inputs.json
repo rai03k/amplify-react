@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "liffreact9eb24174_identitypool_9eb24174",
+    "identityPoolName": "amplifyreacta07b8ce6_identitypool_a07b8ce6",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "liffre9eb24174",
-    "userPoolName": "liffreact9eb24174_userpool_9eb24174",
+    "resourceNameTruncated": "amplifa07b8ce6",
+    "userPoolName": "amplifyreacta07b8ce6_userpool_a07b8ce6",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -20,7 +20,7 @@
     "passwordPolicyMinLength": 8,
     "passwordPolicyCharacters": [],
     "requiredAttributes": [
-      "email"
+      "name"
     ],
     "aliasAttributes": [],
     "userpoolClientGenerateSecret": false,
@@ -31,12 +31,13 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "liffre9eb24174_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "amplifa07b8ce6_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "9eb24174",
-    "resourceName": "liffreact9eb24174",
+    "sharedId": "a07b8ce6",
+    "resourceName": "amplifyreacta07b8ce6",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
+    "triggers": {},
     "userPoolGroupList": [],
     "serviceName": "Cognito",
     "usernameCaseSensitive": false,
